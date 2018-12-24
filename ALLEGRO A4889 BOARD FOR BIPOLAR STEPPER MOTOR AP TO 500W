@@ -1,0 +1,3 @@
+This electronic board is designed to control Stepper motors of considerable power, in conjunction with an Arduino board 
+on which the GRBL software is inserted and through the Universal GCODE Sender, software that works on PC, it is possible
+to control a big CNC machine.
